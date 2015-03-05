@@ -1,0 +1,9 @@
+# check for updates to cached pages every... [ off (default), hour, day, week, month, continuous ]
+autoscrape: off
+
+# length of time to retain pages [ forever (default), hour, day, week, month, year ]
+retain: forever
+
+# web domain and port
+domain: http://localhost
+port: 8888

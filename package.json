@@ -1,0 +1,27 @@
+{
+  "name": "webcat",
+  "version": "1.0.0",
+  "description": "NodeJS webpage cacher, scraper, licker, etc. -  with proxy, direct, or CLI access support",
+  "main": "webcat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smo-key/webcat.git"
+  },
+  "keywords": [
+    "Webcat",
+    "cacher",
+    "proxy",
+    "cat",
+    "meow"
+  ],
+  "author": "Arthur Pachachura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smo-key/webcat/issues"
+  },
+  "homepage": "https://github.com/smo-key/webcat"
+}

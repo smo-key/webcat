@@ -1,0 +1,10 @@
+### Initial Web Cache
+#
+# Pages that match these urls will be scraped and cached - others will be ignored
+# ONE PAGE URL PER LINE, first line gets highest priority
+#
+# To cache all pages, just type *
+# Add specific pages to locate and cache them immediately on startup (you can add a * afterward)
+# This list is modifyable at runtime with webcat.add([regex]), webcat.remove([regex])
+
+
